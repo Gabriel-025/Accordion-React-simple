@@ -15,7 +15,13 @@ code {
 
 
 .hide {
-  display: none;
+  max-height: 0;
+  pointer-events: none;
+  opacity:0;
+}
+.hide p {
+  max-height: 0vh;
+  margin:0px;
 }
 
 .active {
@@ -24,6 +30,8 @@ code {
   background:#e9e9e9;
   padding: 15px 20px;
   margin-bottom:5px;
+  opacity: 1;
+  transition: opacity ease-in-out 0.7s;
 }
 .active p {
   margin:0;
@@ -35,11 +43,11 @@ code {
   display:flex;
   justify-content: space-between;
   padding: 15px 20px;
-  margin-bottom:2px;
-  
+  border-bottom:2px solid white;
+  cursor: pointer;
 }
 .title:hover {
-opacity:0.9;
+  opacity:0.9;
 }
 .App{
   display:flex;

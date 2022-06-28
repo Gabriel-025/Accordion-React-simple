@@ -1,9 +1,5 @@
 const items = [
-  {
-    title: "Como encontro meu voucher de confirmação?",
-    content:
-      "Logado em sua conta no SPRINTA, clique no ícone do seu perfil e, em seguida, em “MINHAS INSCRIÇÕESem seguida, em “MINHAS INSCRIÇÕESem seguida, em “MINHAS INSCRIÇÕESem seguida, em “MINHAS INSCRIÇÕES",
-  },
+ 
   {
     title: "Como fazer o check in do usuário pela plataforma.",
     content:
