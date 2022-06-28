@@ -15,7 +15,6 @@ code {
 
 
 .hide {
-  max-height: 0;
   pointer-events: none;
   opacity:0;
 }

@@ -4,6 +4,7 @@ import Closed from "../Icons/cloesed";
 import OpenIt from "../Icons/open";
 
 export const Accordion = ({ items }) => {
+
   const [activeIndex, setActiveIndex] = useState(null);
 
   const onTitleClick = (index) => {
@@ -19,8 +20,6 @@ export const Accordion = ({ items }) => {
       index === activeIndex
         ? "active"
         : "hide";
-    
-    // console.log(active);
     return (
       <React.Fragment key={item.title}>
         <div className="title" onClick={() => onTitleClick(index)}>
