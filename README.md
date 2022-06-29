@@ -8,7 +8,10 @@
 
 
 # Dicas:
-
+- Clone:
+```
+git clone https://github.com/Gabriel-025/Accordion-React-simple.git
+```
 - Crie um novo css;
 - integre novos efeitos;
 
