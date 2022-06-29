@@ -1,7 +1,7 @@
 # Veja o resultado e saiba mais sobre como funciona:
 
 - Mostra 1 dado por vez;
-- Closed automático ao clicar em um questão diferente.
+- Closed automático ao clicar em uma questão diferente.
 - Mock simulando dados de uma API;
 - Efeito bem simples ao renderizar texto.
 
