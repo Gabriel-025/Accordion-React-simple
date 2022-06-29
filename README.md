@@ -1,7 +1,7 @@
 # Veja o resultado e saiba mais sobre como funciona:
 
 - Mostra 1 dado por vez;
-- closed automático ao clicar em um questão diferente.
+- Closed automático ao clicar em um questão diferente.
 - Mock simulando dados de uma API;
 
 ![da](https://user-images.githubusercontent.com/78861515/176449716-57469647-416f-4f70-a43b-834d8867d22c.png)
