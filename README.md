@@ -3,6 +3,7 @@
 - Mostra 1 dado por vez;
 - Closed automático ao clicar em um questão diferente.
 - Mock simulando dados de uma API;
+- Efeito bem simples ao renderizar texto.
 
 ![da](https://user-images.githubusercontent.com/78861515/176449716-57469647-416f-4f70-a43b-834d8867d22c.png)
 
