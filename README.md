@@ -13,13 +13,13 @@
 ```
 git clone https://github.com/Gabriel-025/Accordion-React-simple.git
 ```
-- instale as dependências:
+- Instale as dependências:
 ```
 npm install
 ```
 
 - Crie um novo css;
-- integre novos efeitos;
+- Integre novos efeitos;
 
 
 ## Scripts Disponíveis
@@ -39,7 +39,7 @@ Você também pode ver erros de lint no console.
 Inicia o executor de teste no modo de exibição interativa.\
 Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
-### `npm executar compilação`
+### `npm run build`
 
 Compila o aplicativo para produção na pasta `build`.\
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
@@ -50,10 +50,5 @@ Seu aplicativo está pronto para ser implantado!
 Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
 
 
-### Implantação
 
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` falha ao minificar
-
-Esta seção foi movida para aqui: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/ create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
