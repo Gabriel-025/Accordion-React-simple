@@ -1,5 +1,4 @@
 const items = [
- 
   {
     title: "Como fazer o check in do usuário pela plataforma.",
     content:

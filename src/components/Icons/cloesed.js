@@ -9,7 +9,6 @@ function Closed() {
       fill="currentColor"
       stroke="currentColor"
       strokeWidth="0"
-      color="red"
       viewBox="0 0 24 24"
     >
       <path
